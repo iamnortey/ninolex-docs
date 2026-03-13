@@ -69,9 +69,8 @@ Response includes IPA phonemes and a downloadable dictionary file.
 | Document | Description |
 |----------|-------------|
 | [Architecture](./ARCHITECTURE.md) | Pipeline design and data flow |
-| [Case Study](./CASE_STUDY.md) | Full project overview |
+| [Case Study](https://github.com/iamnortey/portfolio/blob/main/case-studies/ninolex.md) | Full project overview |
 | [Security](./docs/security.md) | API authentication and access |
-| [ADRs](./docs/adr/) | Architecture decision records |
 
 ---
 
